@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Olá, me chamo Arthur Neves, sou estudante do 2° Período de Engenharia de Software.<br>🤝 Atualmente estou desenvolvendo minhas habilidades de Backend com foco em Java, além disso, possuo conhecimento básico em HTML e CSS.<br>⚡ Tenho como objetivo desenvolver uma carreira sólida baseada em projetos promissores com o intuito de me desenvolver profissionalmente tanto em equipe quanto em individual.
+💬 Olá, me chamo Arthur Neves, sou estudante do 2° Período de Engenharia de Software.<br>🤝 Atualmente estou desenvolvendo minhas habilidades de Backend com foco em Java, além disso, possuo conhecimento básico em Javascript,HTML e CSS.<br>⚡ Tenho como objetivo desenvolver uma carreira sólida baseada em projetos promissores com o intuito de me desenvolver profissionalmente tanto em equipe quanto em individual.
 
 
 ## 🌐 Socials:
