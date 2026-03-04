@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! Me chamo Arthur Neves, sou estudante do 5° período de Engenharia de Software na FAMETRO.<br>💻 Entusiasta do desenvolvimento Backend. Atualmente, foco meu aprendizado e prática em Java e Python, possuindo também conhecimentos em JavaScript, HTML e CSS. <br>💻Tenho experiência prática em projetos web e mobile utilizando MySQL e versionamento com Git/GitHub. <br>🌐Meu objetivo atual é desenvolver uma carreira sólida baseada em projetos promissores com o intuito de me desenvolver profissionalmente tanto em equipe quanto em individual.
+Olá! Me chamo Arthur Neves, sou estudante do 5° período de Engenharia de Software na FAMETRO.<br>💻 Entusiasta do desenvolvimento Backend. Atualmente, foco meu aprendizado e prática em Python, possuindo também conhecimentos em JavaScript, HTML, CSS e Java. <br>💻Tenho experiência prática em projetos web e mobile utilizando MySQL e versionamento com Git/GitHub. <br>🌐Meu objetivo atual é desenvolver uma carreira sólida baseada em projetos promissores com o intuito de me desenvolver profissionalmente tanto em equipe quanto em individual.
 
 
 ## 🌐 Socials:
