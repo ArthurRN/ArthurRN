@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! Me chamo Arthur Neves, sou estudante do 6° período de Engenharia de Software na FAMETRO.<br>💻 Entusiasta do desenvolvimento Backend. Atualmente, foco meu aprendizado e prática em Python, possuindo também conhecimentos em JavaScript, HTML, CSS e Java. <br>💻Tenho experiência prática em projetos web e mobile utilizando MySQL e versionamento com Git/GitHub. <br>🌐Meu objetivo atual é desenvolver uma carreira sólida baseada em projetos promissores com o intuito de me desenvolver profissionalmente tanto em equipe quanto em individual.
+Olá! Me chamo Arthur Neves, sou estudante do 6º período de Engenharia de Software na FAMETRO.<br>💻 Entusiasta do desenvolvimento de software. Atualmente, foco meu aprendizado e prática em Python, possuindo também conhecimentos em JavaScript/TypeScript, Java, HTML e CSS.<br>💻 Tenho experiência prática em projetos web e mobile utilizando MySQL e PostgreSQL, versionamento com Git/GitHub e publicação em servidor Linux com Docker.<br>🚀 Desenvolvo o Study Flow, um app Android para estudar inglês com IA, hoje em beta fechado.<br>🌐 Meu objetivo atual é desenvolver uma carreira sólida baseada em projetos promissores, com o intuito de me desenvolver profissionalmente tanto em equipe quanto individualmente.
 
 
 ## 🌐 Socials:
