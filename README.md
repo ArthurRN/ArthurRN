@@ -1,6 +1,6 @@
 <!-- ===================== CABEÇALHO ===================== -->
 <p align="center">
-  <img width="100%" alt="Arthur Neves · Engenharia de Software · Backend e Mobile · Qualidade de Software" src="./assets/banner.svg">
+  <img width="100%" alt="Arthur Neves · Engenharia de Software · Backend, Mobile e IA aplicada" src="./assets/banner.svg">
 </p>
 
 <p align="center">
