@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-  Manaus, AM · Aberto a oportunidades de estágio
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/arthurrn/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-arthurrn-EA580C?style=flat-square&logo=linkedin&logoColor=white&labelColor=1C1917"></a>
   <a href="mailto:rn.galucio@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-rn.galucio%40gmail.com-EA580C?style=flat-square&logo=gmail&logoColor=white&labelColor=1C1917"></a>
 </p>
