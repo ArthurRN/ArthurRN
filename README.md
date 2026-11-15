@@ -131,12 +131,12 @@ Testes automatizados, testes de fumaça da API e decisões documentadas (ADRs)
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ArthurRN&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br&theme=github_dark">
-    <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=ArthurRN&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+    <img width="49%" alt="Estatísticas do GitHub" src="./profile-summary-card-output/default/3-stats.svg">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRN&layout=compact&hide_border=true&locale=pt-br&theme=github_dark">
-    <img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRN&layout=compact&hide_border=true&locale=pt-br&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img width="49%" alt="Linguagens com mais commits" src="./profile-summary-card-output/default/2-most-commit-language.svg">
   </picture>
 </p>
 
