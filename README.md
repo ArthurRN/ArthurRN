@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+  Manaus, AM · Aberto a oportunidades de estágio
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/arthurrn/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-arthurrn-EA580C?style=flat-square&logo=linkedin&logoColor=white&labelColor=1C1917"></a>
   <a href="mailto:rn.galucio@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-rn.galucio%40gmail.com-EA580C?style=flat-square&logo=gmail&logoColor=white&labelColor=1C1917"></a>
 </p>
@@ -129,12 +133,12 @@ Testes automatizados, testes de fumaça da API e decisões documentadas (ADRs)
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
-    <img width="49%" alt="Estatísticas do GitHub" src="./profile-summary-card-output/default/3-stats.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <img height="165" alt="Estatísticas do GitHub" src="./profile/stats-light.svg">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
-    <img width="49%" alt="Linguagens com mais commits" src="./profile-summary-card-output/default/2-most-commit-language.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <img height="165" alt="Linguagens mais usadas" src="./profile/top-langs-light.svg">
   </picture>
 </p>
 
