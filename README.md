@@ -18,7 +18,6 @@
 - 🚀 Desenvolvo o **Study Flow**, um app Android para aprender vocabulário em inglês com IA, hoje em **beta fechado**. Cuido do app, da API, do banco e do servidor.
 - 🧪 Gosto de software que se prova: testes automatizados, técnicas de caixa-preta (partição por equivalência e valor-limite), requisitos documentados e rastreabilidade.
 - 🐧 Publico o que construo: servidor Linux, Docker Compose e HTTPS com Caddy.
-- 🌎 Inglês intermediário (B1 – EF SET).
 
 <!-- ===================== PROJETO PRINCIPAL ===================== -->
 ## 🚀 Em destaque: Study Flow
