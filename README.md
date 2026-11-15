@@ -1,14 +1,15 @@
 <!-- ===================== CABEÇALHO ===================== -->
-<h1 align="center">Arthur Neves</h1>
+<p align="center">
+  <img width="100%" alt="Arthur Neves · Engenharia de Software · Backend e Mobile · Qualidade de Software" src="./assets/banner.svg">
+</p>
 
 <p align="center">
-  <b>Engenharia de Software · Backend & Mobile · Qualidade de Software</b><br>
   Manaus, AM · Aberto a oportunidades de estágio
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arthurrn/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-arthurrn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:rn.galucio@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-rn.galucio%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/arthurrn/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-arthurrn-EA580C?style=flat-square&logo=linkedin&logoColor=white&labelColor=1C1917"></a>
+  <a href="mailto:rn.galucio@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-rn.galucio%40gmail.com-EA580C?style=flat-square&logo=gmail&logoColor=white&labelColor=1C1917"></a>
 </p>
 
 <!-- ===================== SOBRE MIM ===================== -->
@@ -22,9 +23,9 @@
 <!-- ===================== PROJETO PRINCIPAL ===================== -->
 ## 🚀 Em destaque: Study Flow
 
-![Status](https://img.shields.io/badge/status-beta_fechado-8A63D2?style=flat-square)
-![Plataforma](https://img.shields.io/badge/plataforma-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Código](https://img.shields.io/badge/c%C3%B3digo-privado-555555?style=flat-square&logo=github)
+![Status](https://img.shields.io/badge/status-beta_fechado-EA580C?style=flat-square&labelColor=1C1917)
+![Plataforma](https://img.shields.io/badge/plataforma-Android-EA580C?style=flat-square&logo=android&logoColor=white&labelColor=1C1917)
+![Código](https://img.shields.io/badge/c%C3%B3digo-privado-EA580C?style=flat-square&logo=github&logoColor=white&labelColor=1C1917)
 
 App Android que transforma **textos, PDFs e fotos** em cartões de vocabulário em inglês com IA e agenda as revisões no momento certo. Produto que estou criando do zero: **app, API, banco de dados e deploy**.
 
@@ -114,7 +115,7 @@ Testes automatizados, testes de fumaça da API e decisões documentadas (ADRs)
 <!-- ===================== STACK ===================== -->
 ## 🛠️ Stack
 
-<p>
+<p align="center">
   <img alt="Linguagens" src="https://skillicons.dev/icons?i=ts,js,py,java,html,css&theme=dark">
   <br>
   <img alt="Backend e dados" src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb&theme=dark">
@@ -122,8 +123,10 @@ Testes automatizados, testes de fumaça da API e decisões documentadas (ADRs)
   <img alt="Mobile, infra e ferramentas" src="https://skillicons.dev/icons?i=react,docker,linux,git,github,figma&theme=dark">
 </p>
 
-**Também uso:** Expo · Hono · Drizzle ORM · Zod · Jest · Caddy · Trello (Kanban)<br>
-**Estudando agora:** Teste de software (base ISTQB) · Python · Power BI
+<p align="center">
+  <b>Também uso:</b> Expo · Hono · Drizzle ORM · Zod · Jest · Caddy · Trello (Kanban)<br>
+  <b>Estudando agora:</b> Teste de software (base ISTQB) · Python · Power BI
+</p>
 
 <!-- ===================== ESTATÍSTICAS ===================== -->
 ## 📊 Estatísticas do GitHub
@@ -141,8 +144,8 @@ Testes automatizados, testes de fumaça da API e decisões documentadas (ADRs)
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ArthurRN&hide_border=true&locale=pt_BR&theme=github-dark-blue">
-    <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=ArthurRN&hide_border=true&locale=pt_BR&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ArthurRN&hide_border=true&locale=pt_BR&theme=github-dark-blue&ring=EA580C&fire=F97316&currStreakLabel=F97316">
+    <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=ArthurRN&hide_border=true&locale=pt_BR&theme=default&ring=EA580C&fire=EA580C&currStreakLabel=EA580C">
   </picture>
 </p>
 
