@@ -1,5 +1,5 @@
-# Gera os cards de estatísticas e a cobrinha do perfil.
-# Salve no repositório ArthurRN/ArthurRN em: .github/workflows/perfil.yml
+# Gera os cards de estatísticas, de linguagens e a cobrinha do perfil.
+# Fica no repositório ArthurRN/ArthurRN em: .github/workflows/perfil.yml
 name: Atualizar cards do perfil
 
 on:
@@ -16,11 +16,46 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Estatísticas (tema escuro)
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          USERNAME: ${{ github.repository_owner }}
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&theme=github_dark
+          path: profile/stats-dark.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Estatísticas (tema claro)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&theme=default
+          path: profile/stats-light.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Linguagens (tema escuro)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&locale=pt-br&theme=github_dark
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Linguagens (tema claro)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&locale=pt-br&theme=default
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Salvar os cards no repositório
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Atualiza cards do perfil" || exit 0
+          git push
 
   cobrinha:
     name: Cobrinha das contribuições
