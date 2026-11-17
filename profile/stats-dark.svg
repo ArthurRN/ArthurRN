@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estat&#237;sticas do GitHub de Arthur Neves, Rank: C</title>
-        <desc id="descId">Total de estrelas: 0, Total de Commits  : 148, Total de PRs: 16, Total de Issues: 0, Contribuiu para (ano passado): 1</desc>
+        <desc id="descId">Total de estrelas: 2, Total de Commits  : 148, Total de PRs: 16, Total de Issues: 0, Contribuiu para (ano passado): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 232.84022853891835;
+        stroke-dashoffset: 229.6180822275442;
       }
     }
   
@@ -169,7 +169,7 @@
         x="274.01"
         y="12.5"
         data-testid="stars"
-      >0</text>
+      >2</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
